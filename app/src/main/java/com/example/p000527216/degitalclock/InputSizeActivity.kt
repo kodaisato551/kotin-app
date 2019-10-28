@@ -19,7 +19,6 @@ class InputSizeActivity:AppCompatActivity() {
             setResult(Activity.RESULT_OK, intent)
             finish()
         }
-
     }
 
 }
