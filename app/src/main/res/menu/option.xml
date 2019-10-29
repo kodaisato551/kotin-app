@@ -3,5 +3,9 @@
     <item
             android:id="@+id/fontSize"
             android:title="font size" />
+    <item
+        android:id="@+id/font_family_option"
+        android:title="font family"
+        />
 
 </menu>
